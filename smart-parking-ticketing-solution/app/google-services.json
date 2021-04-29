@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "903574019879",
+    "project_id": "swift-110cb",
+    "storage_bucket": "swift-110cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903574019879:android:d44af434ca1f76db5ad302",
+        "android_client_info": {
+          "package_name": "com.example.smartparkingticketingsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903574019879-hgggkjq9548ftbkb7d8q37rlnv9htgrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvu5PUuHhAumOUkz70sqPveKpcaeuSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903574019879-hgggkjq9548ftbkb7d8q37rlnv9htgrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903574019879:android:b16ae488a12f28f15ad302",
+        "android_client_info": {
+          "package_name": "com.swift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903574019879-hgggkjq9548ftbkb7d8q37rlnv9htgrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvu5PUuHhAumOUkz70sqPveKpcaeuSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903574019879-hgggkjq9548ftbkb7d8q37rlnv9htgrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
